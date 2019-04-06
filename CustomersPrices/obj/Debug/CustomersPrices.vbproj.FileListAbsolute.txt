@@ -1,3 +1,13 @@
 C:\Users\me\AppData\Local\Temporary Projects\CustomersPrices\bin\Debug\CustomersPrices.exe.config
 C:\Users\me\Documents\Visual Studio 2015\Projects\CustomersPrices\CustomersPrices\bin\Debug\CustomersPrices.exe.config
 C:\Users\CustomersPrices\CustomersPrices\bin\Debug\CustomersPrices.exe.config
+C:\Users\CustomersPrices\CustomersPrices\obj\Debug\CustomersPrices.vbprojResolveAssemblyReference.cache
+C:\Users\CustomersPrices\CustomersPrices\obj\Debug\CustomersPrices.MainForm.resources
+C:\Users\CustomersPrices\CustomersPrices\obj\Debug\CustomersPrices.Resources.resources
+C:\Users\CustomersPrices\CustomersPrices\obj\Debug\CustomersPrices.vbproj.GenerateResource.Cache
+C:\Users\CustomersPrices\CustomersPrices\obj\Debug\CustomersPrices.xml
+C:\Users\CustomersPrices\CustomersPrices\bin\Debug\CustomersPrices.exe
+C:\Users\CustomersPrices\CustomersPrices\bin\Debug\CustomersPrices.pdb
+C:\Users\CustomersPrices\CustomersPrices\bin\Debug\CustomersPrices.xml
+C:\Users\CustomersPrices\CustomersPrices\obj\Debug\CustomersPrices.exe
+C:\Users\CustomersPrices\CustomersPrices\obj\Debug\CustomersPrices.pdb
